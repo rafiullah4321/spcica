@@ -1,0 +1,17 @@
+/*
+Theme Name: Gico
+Theme URI: https://gico.io
+Author: Tiran Moyal
+Author URI: https://gico.io
+Description: Custom Design Theme
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: Online Shop, DIgital Product
+Text Domain: gico
+*/
+
+.result-list{
+    padding: 0 0 20px 0;
+    overflow: hidden;
+}
